@@ -1,0 +1,1 @@
+# ray-mmd-render-library-chinese-helper
